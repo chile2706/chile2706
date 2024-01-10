@@ -45,7 +45,7 @@ Project Link | Area | Project Description
 ### MySQL
 Project Link | Area | Project Description
 -------------|------|--------------------
-[example 1]  |      |                
+[Foodie-Fi](https://github.com/chile2706/8-week-sql/tree/main/case%20study%20%233%20-%20Foodie-Fi)  |      |                
 [example 2]  |      |  
 [example 3]  |      |  
 
