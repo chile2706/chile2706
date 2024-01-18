@@ -13,7 +13,7 @@ Excited to share my journey and discoveries with you!
 ## ⚒️ My tools
 * Language: Python, Java, R
 * Database: MySQL
-* Visualization: PowerBI
+* Visualization: PowerBI, Tableau
 ## 🗂 My projects
 #### 📚 Table of contents
 * [Data-Analyst](#data-analyst)
