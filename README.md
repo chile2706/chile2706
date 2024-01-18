@@ -46,7 +46,7 @@ Project Link | Area | Project Description
 Project Link | Area | Project Description
 -------------|------|--------------------
 [Foodie-Fi](https://github.com/chile2706/8-week-sql/tree/main/case%20study%20%233%20-%20Foodie-Fi)  |      |                
-[example 2]  |      |  
+[Data Bank](https://github.com/chile2706/8-week-sql/tree/743caf3231a0b6cdcd705aa93bfa79f2866c1a02/case%20study%20%234%20-%20Data%20Bank)  |      |  
 [example 3]  |      |  
 
 ### Power BI
