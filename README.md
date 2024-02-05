@@ -47,8 +47,7 @@ Project Link | Area | Project Description
 Project Link    | Area of Technique | Project Description
 -------------|------|--------------------
 🧊 [Ice Coverage over Time for the US Great Lakes](https://github.com/chile2706/PowerBI/tree/71bf338214677fbf0cdfb950245db619df0f203f/Ice%20Coverage%20over%20time%20for%20the%20US%20Great%20Lakes)  | Conditional Formating, Button, Forcasting, Anomaly dectection     |      Gain insights into Maximum Ice Coverage for each year for 5 US Great Lakes: Erie, Huron, Michigan, Ontario, Superior          
-💰 [Income per GDP and life expectancy](https://github.com/chile2706/PowerBI/tree/71bf338214677fbf0cdfb950245db619df0f203f/Income%20per%20GDP%20and%20life%20expectancy)  | Bubble Chart, Custom Overlay, Button     |  Answer the question of the Relationship between Income and Life Expectancy
-🏋🏻‍♀️ [NCAA Athletic Department Expenses and Revenues](https://github.com/chile2706/PowerBI/tree/71bf338214677fbf0cdfb950245db619df0f203f/NCAA%20Athletic%20Department%20Expenses%20and%20Revenues)  |  SWITCH(), slicer    | Total Revenues, Total Expenses, and Total Profits Analysis of NCAA athletic department by Year 
+ 
 
 ### Tableau
 Project Link | Project Description | Dashboard Link
